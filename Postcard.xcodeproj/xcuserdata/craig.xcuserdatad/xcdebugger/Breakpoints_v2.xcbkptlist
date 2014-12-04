@@ -25,7 +25,7 @@
                   symbolName = "Postcard.ViewController.enterNameTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439230327.34462"
+                  timestampString = "439405630.251279"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
@@ -39,7 +39,7 @@
                   symbolName = "Postcard.ViewController.enterNameTextField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439230327.344759"
+                  timestampString = "439405630.251416"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
@@ -53,7 +53,7 @@
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439230327.344881"
+                  timestampString = "439405630.251604"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
@@ -67,12 +67,12 @@
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)() -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439230327.345004"
+                  timestampString = "439405630.251745"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
                   endingLineNumber = "15"
-                  offsetFromSymbolStart = "77">
+                  offsetFromSymbolStart = "80">
                </Location>
                <Location
                   shouldBeEnabled = "Yes"
@@ -81,7 +81,7 @@
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439230327.345129"
+                  timestampString = "439405630.251881"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "15"
@@ -94,7 +94,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Postcard/ViewController.swift"
@@ -105,92 +105,340 @@
             endingLineNumber = "14"
             landmarkName = "ViewController"
             landmarkType = "3">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Postcard/ViewController.swift"
-            timestampString = "439142247.486444"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
-            landmarkName = "ViewController"
-            landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Postcard.ViewController.enterMessageTextField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  symbolName = "Postcard.ViewController.messageLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439145467.917829"
+                  timestampString = "439405630.254508"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.messageLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.254823"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
                   offsetFromSymbolStart = "16">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "Postcard.ViewController.enterMessageTextField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
-                  moduleName = "Postcard"
-                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439145467.917966"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "16">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439145467.918121"
+                  timestampString = "439405630.254947"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "209">
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "53">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)() -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439145467.918253"
+                  timestampString = "439405630.25507"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "127">
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Postcard.ViewController"
                   moduleName = "Postcard"
                   urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
-                  timestampString = "439145467.918434"
+                  timestampString = "439405630.255195"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "16"
-                  endingLineNumber = "16"
-                  offsetFromSymbolStart = "138">
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Postcard/ViewController.swift"
+            timestampString = "439405629.934634"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.nameLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.256062"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.nameLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.256227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.256513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "261">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)() -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.256632"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.25675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Postcard/ViewController.swift"
+            timestampString = "439405355.674336"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.nameLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.258227"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.nameLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.258376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.nameLabel.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UILabel&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.258497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)() -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.258737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.258854"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Postcard/ViewController.swift"
+            timestampString = "439405356.586098"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.mailButton.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.259557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.mailButton.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.25972"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.mailButton.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UIButton&gt;"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.259866"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.259986"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "313">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Postcard.ViewController.init (Postcard.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Postcard.ViewController"
+                  moduleName = "Postcard"
+                  urlString = "file:///Users/craig/Desktop/Swift/Postcard/Postcard/ViewController.swift"
+                  timestampString = "439405630.260218"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "238">
                </Location>
             </Locations>
          </BreakpointContent>
